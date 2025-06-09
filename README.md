@@ -36,4 +36,4 @@ python init_db.py
 
 ## License
 
-MIT License
+Jukkapan Wirunrat
